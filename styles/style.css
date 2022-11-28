@@ -50,3 +50,11 @@
 @import "../blocks/footer/__social-icon/footer__social-icon.css";
 
 @import "../blocks/rotation/rotation.css";
+
+@import "../blocks/techniques/techniques.css";
+
+@import "../blocks/cards/cards.css";
+@import "../blocks/cards/__item/cards__item.css";
+@import "../blocks/cards/__image/cards__image.css";
+@import "../blocks/cards/__title/card__title.css";
+@import "../blocks/cards/__description/cards__description.css";
